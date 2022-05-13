@@ -2,7 +2,7 @@
 This folder contains Tcl scripts that build Libero SoC v2022.1 design projects for the RTG4 Development Kit. These scripts are executed in Libero SoC to generate the sample designs. All cores boot from memory at 0x8000_0000.
 
 
-#### RTG4_Dev_Kit_MIV_RV32_BaseDesign (ES die type not supported)
+#### RTG4_Dev_Kit_MIV_RV32_BaseDesign (Engineering Sample die type not supported)
 
 | Config  | Description|
 | :------:|:----------------------------------------|
